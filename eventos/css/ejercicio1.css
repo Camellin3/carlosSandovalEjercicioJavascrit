@@ -1,0 +1,13 @@
+
+.formulario{
+    padding: 5vh;
+    width: 40vw;
+    height: 50vh;
+    display: flex;
+    flex-direction: column;
+    border: solid 1px black;
+    
+}
+.boton{
+    width:100px
+}
