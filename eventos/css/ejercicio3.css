@@ -1,7 +1,23 @@
-#divcreador{
-    width: 30rem; 
-    margin-bottom: 2rem;
-    display: flex;
-    justify-content: center;
-    text-align: center;
+
+body{
+    background-color: aquamarine;
+    width: 100%;
+}
+h2{
+    color: brown;
+}
+.card{
+    max-width: 15vw;
+}
+#contenedortarjetas{
+    max-width: 70vw;
+    margin-left: 15vw;
+}
+
+#Anotar{
+    width: 50vw;
+    margin-left: 25vw;
+    padding: 7vh;
+    margin: 2px solid red;
+    background-color: orangered;
 }
